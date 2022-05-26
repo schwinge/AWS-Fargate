@@ -5,4 +5,4 @@ https://mlu-explain.github.io/
 
 https://github.com/aws/deep-learning-containers
 
-folder in branches, just check it
+folders in branches, just check it :fist_oncoming:
