@@ -1,3 +1,3 @@
 # AWS-Beanstalk
 
-:candy:tale old, sky tall, stop by stop, up grow the beanstalk :lollipop:
+:candy:tale old, sky tall, from pole to pole, up grow the beanstalk :lollipop:
